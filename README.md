@@ -1,8 +1,8 @@
 # ⭐️ About Me:
-Focused on applying data analysis to real-world problems, with an emphasis on retail analytics and customer behaviour.<br>Building end-to-end projects involving data cleaning, analysis, and visualisation to generate actionable insights.
+Focused on applying data analysis to real-world problems, with an emphasis on retail analytics and customer behaviour. Building end-to-end projects involving data cleaning, analysis, and visualisation to generate actionable insights.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikitakotadia) 
 
 # 💻 Tech Stack:
