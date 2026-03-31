@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ⭐️ About Me:
 Focused on applying data analysis to real-world problems, with an emphasis on retail analytics and customer behaviour.<br>Building end-to-end projects involving data cleaning, analysis, and visualisation to generate actionable insights.
 
 
